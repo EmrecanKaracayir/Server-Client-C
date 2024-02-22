@@ -1,2 +1,3 @@
 # Server-Client-C
-A practice for server-client architecture in C
+
+This program is a server that accepts two integer arrays from a client and adds them together. The server then sends the result back to the client.
